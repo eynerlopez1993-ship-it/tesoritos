@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tesoritos - Joyería y Accesorios</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- CSS externo -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="bg-gradient-to-br from-[#36FF7D]/20 to-white min-h-screen text-gray-800">
+
+
+  <!-- Header -->
+  <header class="text-center py-8 bg-white shadow flex flex-col items-center gap-4">
+    <img src="imagenes/logo.jpg" alt="Tesoritos Logo" class="w-32 h-32 object-contain rounded-full shadow-md">
+    <h1 id="tesoritos-glow" class="text-4xl font-bold text-pink-600">✨ Tesoritos ✨</h1>
+    <p class="text-gray-700 mt-2 text-center max-w-xl">
+      Joyería para dama 💎 | Accesorios con estilo ✨ | Emprendimiento 100% en línea 📲 | Productos al detalle 📝
+      <br>
+      Tu joyería favorita, sin salir de casa 💕 🇳🇮
+    </p>
+  </header>
+  
+  
+<section id="filtros" class="my-6 flex justify-center overflow-x-auto gap-2 p-2">
+  <!-- Botones de categorías se generarán aquí con JS -->
+</section>
+
+  <!-- Galería -->
+  <main id="galeria" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 p-6"></main>
+
+  <!-- Botón carrito -->
+  <button id="btn-carrito" 
+  class="bg-pink-500 hover:bg-pink-600 text-white px-4 py-2 rounded-xl 
+         flex items-center justify-center gap-2 w-auto h-auto">
+  🛒 Carrito
+</button>
+
+
+  <!-- Panel carrito -->
+  <div id="carrito-panel" class="hidden fixed inset-0 bg-black bg-opacity-50 items-center justify-center z-50 p-4 opacity-0">
+    <div class="bg-white rounded-3xl w-full max-w-md p-6 relative transform scale-95 transition-transform duration-300">
+      <button id="cerrar-carrito" class="absolute top-4 right-4 text-xl">✖</button>
+      <h2 class="text-2xl font-bold text-pink-600 mb-4">Carrito</h2>
+      <div id="carrito-items" class="space-y-4 max-h-80 overflow-y-auto"></div>
+      <p id="carrito-total" class="mt-4 text-lg font-semibold text-green-700"></p>
+      <a id="btn-whatsapp" href="#" target="_blank" class="mt-4 block bg-green-500 text-white px-4 py-2 rounded-xl text-center shadow-md">
+        Enviar pedido por WhatsApp
+      </a>
+    </div>
+  </div>
+
+  <!-- Lightbox -->
+  <div id="lightbox" class="hidden fixed inset-0 bg-black bg-opacity-80 items-center justify-center z-50 opacity-0 transition-opacity duration-300">
+    <button id="lightbox-close" class="absolute top-6 right-6 text-white text-3xl">✖</button>
+    <button id="prev" class="absolute left-6 text-white text-3xl">◀</button>
+    <img id="lightbox-img" class="max-h-[80%] max-w-[90%] rounded-3xl scale-95 transition-transform duration-300">
+    <button id="next" class="absolute right-6 text-white text-3xl">▶</button>
+  </div>
+  
+<!-- Ubicación -->
+<section class="p-6 my-12 max-w-4xl mx-auto">
+  <h2 class="text-2xl font-bold text-pink-600 mb-6 text-center">Nuestra Ubicación</h2>
+  <div class="overflow-hidden rounded-4xl shadow-lg hover:shadow-2xl transition-shadow duration-500 transform hover:scale-105">
+    <iframe 
+      src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d140738.4741351131!2d-86.299942!3d12.154961!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f7157000deca3ab%3A0x438281573cbcc889!2sTesoritos%20Nicaragua!5e1!3m2!1ses!2sni!4v1760464118943!5m2!1ses!2sni" 
+      width="100%" height="400" class="border-0 rounded-4xl" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+  </div>
+</section>
+
+
+  <!-- Nuestras Redes - Efecto Profesional -->
+<section class="p-6 my-12 max-w-4xl mx-auto text-center">
+  <h2 class="text-3xl font-bold text-pink-600 mb-8">Síguenos en nuestras redes</h2>
+  <div class="flex flex-wrap justify-center gap-8">
+    
+    <!-- TikTok -->
+    <a href="https://www.tiktok.com/@tesoritos_nic" target="_blank" 
+       class="relative flex flex-col items-center group transition-transform duration-500 hover:scale-110 hover:shadow-xl hover:animate-pulse">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJvbTdic2ppb2J1aDFrc2ppNjVxNnc5N3M4ZGsyeWEydGJ4bnAwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jS2pgTIhhTuAqneaF0/giphy.gif" 
+           alt="TikTok" 
+           class="w-24 h-24 object-cover rounded-full shadow-lg transition-all duration-500 transform group-hover:rotate-3 group-hover:brightness-125">
+      <span class="mt-2 font-semibold text-gray-700 opacity-0 group-hover:opacity-100 transition-opacity duration-300">TikTok</span>
+    </a>
+    
+    <!-- Facebook -->
+    <a href="https://www.facebook.com/profile.php?id=61577749507121" target="_blank" 
+       class="relative flex flex-col items-center group transition-transform duration-500 hover:scale-110 hover:shadow-xl hover:animate-pulse">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2dmanR3NDM5c3R6dXMzbnAycGxoNW95cnR6aDRibHF6bnVvczBudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oTkjbppoeIbhCznbN8/giphy.gif" 
+           alt="Facebook" 
+           class="w-24 h-24 object-cover rounded-full shadow-lg transition-all duration-500 transform group-hover:-rotate-3 group-hover:brightness-125">
+      <span class="mt-2 font-semibold text-gray-700 opacity-0 group-hover:opacity-100 transition-opacity duration-300">Facebook</span>
+    </a>
+    
+    <!-- Instagram -->
+    <a href="https://www.instagram.com/tesoritos.accesorios/" target="_blank" 
+       class="relative flex flex-col items-center group transition-transform duration-500 hover:scale-110 hover:shadow-xl hover:animate-pulse">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtvNGhteXlzdDA2dm5yaTd6bXh0bmtubW9uMXJqdGN5NGs0bGVkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AN5GwDpGx5ThrI1c0z/giphy.gif" 
+           alt="Instagram" 
+           class="w-24 h-24 object-cover rounded-full shadow-lg transition-all duration-500 transform group-hover:rotate-6 group-hover:brightness-125">
+      <span class="mt-2 font-semibold text-gray-700 opacity-0 group-hover:opacity-100 transition-opacity duration-300">Instagram</span>
+    </a>
+    
+    <!-- WhatsApp -->
+    <a href="https://wa.me/50558540223" target="_blank" 
+       class="relative flex flex-col items-center group transition-transform duration-500 hover:scale-110 hover:shadow-xl hover:animate-pulse">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZ0N3R1NWoxNWtzemx0eXN3NmdoamtzdHM0bmZsbzJnaTZmeDNtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DRinNvjCXc5Iexx0CH/giphy.gif" 
+           alt="WhatsApp" 
+           class="w-24 h-24 object-cover rounded-full shadow-lg transition-all duration-500 transform group-hover:-rotate-6 group-hover:brightness-125">
+      <span class="mt-2 font-semibold text-gray-700 opacity-0 group-hover:opacity-100 transition-opacity duration-300">WhatsApp</span>
+    </a>
+    
+  </div>
+</section>
+
+  <!-- Footer -->
+  <footer class="bg-white border-t mt-12 py-8 text-center text-gray-700">
+    <div class="max-w-4xl mx-auto px-4">
+      <p class="text-2xl font-bold text-pink-600">💎✨ Tesoritos ✨💎</p>
+      <p class="mt-2 text-lg">📱 Celular: 
+        <a href="https://wa.me/50558540223" target="_blank" 
+           class="text-green-600 hover:underline hover:text-green-700">
+          +505 5854-0223
+        </a>
+      </p>
+      <p class="mt-1 text-lg">✉️ Email: 
+        <a href="mailto:tesoritos.nicaragua@gmail.com" 
+           class="text-blue-600 hover:underline hover:text-blue-700">
+          tesoritos.nicaragua@gmail.com
+        </a>
+      </p>
+      <p class="mt-4 text-pink-600 text-lg">💖 Gracias por confiar en nosotros 💖</p>
+      <div class="mt-4 text-sm text-gray-500">
+        © 2025 Tesoritos Nicaragua | Todos los derechos reservados 💕
+      </div>
+    </div>
+  </footer>
+
+
+  <!-- Toast -->
+  <div id="toast-container" class="fixed top-6 right-6 space-y-2 z-50"></div>
+
+  <!-- JS -->
+  <script src="js/app.js"></script>
+
+</body>
+</html>

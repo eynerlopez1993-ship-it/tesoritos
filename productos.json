@@ -1,0 +1,165 @@
+[
+  {
+    "categoria": "Acero Inoxidable",
+    "productos": [
+      {"id": 1, "nombre": "Arete caracol con circonas", "precio": 220, "imagen": "imagenes/Acero Inoxidable/Arete caracol con circonas.jpg"},
+      {"id": 2, "nombre": "Arete de corazon en hoop", "precio": 260, "imagen": "imagenes/Acero Inoxidable/Arete de corazon en hoop.jpg"},
+      {"id": 3, "nombre": "Aretes cuadrados", "precio": 140, "imagen": "imagenes/Acero Inoxidable/Aretes cuadrados.jpg"},
+      {"id": 4, "nombre": "Aretes de argolla con perla", "precio": 220, "imagen": "imagenes/Acero Inoxidable/Aretes de argolla con perla.jpg"},
+      {"id": 5, "nombre": "Aretes de estrella con flores", "precio": 200, "imagen": "imagenes/Acero Inoxidable/Aretes de estrella con flores.jpg"},
+      {"id": 6, "nombre": "Aretes de flor", "precio": 240, "imagen": "imagenes/Acero Inoxidable/Aretes de flor.jpg"},
+      {"id": 7, "nombre": "Aretes de flor", "precio": 150, "imagen": "imagenes/Acero Inoxidable/Aretes de flor2.jpg"},
+      {"id": 8, "nombre": "Aretes de flor", "precio": 200, "imagen": "imagenes/Acero Inoxidable/Aretes de flor.jpg"},
+      {"id": 9, "nombre": "Aretes de pelota", "precio": 150, "imagen": "imagenes/Acero Inoxidable/Aretes de pelota.jpg"},
+      {"id": 10, "nombre": "Aretes en forma de gota", "precio": 160, "imagen": "imagenes/Acero Inoxidable/Aretes en forma de gota.jpg"},
+      {"id": 11, "nombre": "Aretes en forma de gota con circona", "precio": 160, "imagen": "imagenes/Acero Inoxidable/Aretes en forma de gota con circona.jpg"},
+      {"id": 12, "nombre": "Aretes en forma de gotas", "precio": 220, "imagen": "imagenes/Acero Inoxidable/Aretes en forma de gotas.jpg"},
+      {"id": 13, "nombre": "Aretes estilo barrilito", "precio": 160, "imagen": "imagenes/Acero Inoxidable/Aretes estilo barrilito.jpg"},
+      {"id": 14, "nombre": "Aretes hoop cuadrados con circonas", "precio": 230, "imagen": "imagenes/Acero Inoxidable/Aretes hoop cuadrados con circonas.jpg"},
+      {"id": 15, "nombre": "Maxi Aretes circulares", "precio": 110, "imagen": "imagenes/Acero Inoxidable/Maxi Aretes circulares.jpg"}
+    ]
+  },
+  {
+    "categoria": "Fantasía Fina",
+    "productos": [
+      {"id": 16, "nombre": "Aretes cuadrados", "precio": 110, "imagen": "imagenes/Fantasía Fina/Aretes cuadrados.jpg"},
+      {"id": 17, "nombre": "Aretes de argolla dorados", "precio": 120, "imagen": "imagenes/Fantasía Fina/Aretes de argolla dorados.jpg"},
+      {"id": 18, "nombre": "Aretes de colgar", "precio": 110, "imagen": "imagenes/Fantasía Fina/Aretes de colgar.jpg"},
+      {"id": 19, "nombre": "Aretes de colgar", "precio": 110, "imagen": "imagenes/Fantasía Fina/Aretes de colgar2.jpg"},
+      {"id": 20, "nombre": "Aretes de colgar", "precio": 90, "imagen": "imagenes/Fantasía Fina/Aretes de colgar3.jpg"},
+      {"id": 21, "nombre": "Aretes de colgar", "precio": 110, "imagen": "imagenes/Fantasía Fina/Aretes de colgar4.jpg"},
+      {"id": 22, "nombre": "Aretes de colgar", "precio": 90, "imagen": "imagenes/Fantasía Fina/Aretes de colgar5.jpg"},
+	  {"id": 23, "nombre": "Aretes de colgar", "precio": 90, "imagen": "imagenes/Fantasía Fina/Aretes de colgar44.jpg"},
+      {"id": 24, "nombre": "Aretes de corazón", "precio": 90, "imagen": "imagenes/Fantasía Fina/Aretes de corazón.jpg"},
+      {"id": 25, "nombre": "Aretes de corazón colgante", "precio": 110, "imagen": "imagenes/Fantasía Fina/Aretes de corazón colgante.jpg"},
+      {"id": 26, "nombre": "Aretes de corazón colgante morado.", "precio": 110, "imagen": "imagenes/Fantasía Fina/Aretes de corazón colgante morado.jpg"},
+      {"id": 27, "nombre": "Aretes de flor", "precio": 90, "imagen": "imagenes/Fantasía Fina/Aretes de flor.jpg"},
+	  {"id": 28, "nombre": "Aretes de flor", "precio": 90, "imagen": "imagenes/Fantasía Fina/Aretes de flor1.jpg"},
+      {"id": 29, "nombre": "Aretes de flor", "precio": 110, "imagen": "imagenes/Fantasía Fina/Aretes de flor2.jpg"},
+      {"id": 30, "nombre": "Aretes de flor", "precio": 110, "imagen": "imagenes/Fantasía Fina/Aretes de flor3.jpg"},
+      {"id": 31, "nombre": "Aretes de flor con perla", "precio": 110, "imagen": "imagenes/Fantasía Fina/Aretes de flor con perla.jpg"},
+      {"id": 32, "nombre": "Aretes de flor de colgar", "precio": 90, "imagen": "imagenes/Fantasía Fina/Aretes de flor de colgar.jpg"},
+      {"id": 33, "nombre": "Aretes de hojas", "precio": 90, "imagen": "imagenes/Fantasía Fina/Aretes de hojas.jpg"},
+      {"id": 34, "nombre": "Aretes de lazo con perlas", "precio": 110, "imagen": "imagenes/Fantasía Fina/Aretes de lazo con perlas.jpg"},
+      {"id": 35, "nombre": "Aretes de perla", "precio": 110, "imagen": "imagenes/Fantasía Fina/Aretes de perla.jpg"},
+      {"id": 36, "nombre": "Aretes de piedras", "precio": 110, "imagen": "imagenes/Fantasía Fina/Aretes de piedras.jpg"},
+      {"id": 37, "nombre": "Aretes de tulipan", "precio": 110, "imagen": "imagenes/Fantasía Fina/Aretes de tulipan.jpg"},
+	  {"id": 38, "nombre": "Aretes de tulipan", "precio": 110, "imagen": "imagenes/Fantasía Fina/Aretes de tulipan2.jpg"},
+	  {"id": 39, "nombre": "Aretes flor con perla", "precio": 110, "imagen": "imagenes/Fantasía Fina/Aretes flor con perla.jpg"},
+      {"id": 40, "nombre": "Aretes plateados de colgar", "precio": 90, "imagen": "imagenes/Fantasía Fina/Aretes plateados de colgar.jpg"},
+	  {"id": 41, "nombre": "Aretes plateados de colgar", "precio": 90, "imagen": "imagenes/Fantasía Fina/Aretes plateados de colgar2.jpg"},
+      {"id": 42, "nombre": "Artes de estrella con perla", "precio": 110, "imagen": "imagenes/Fantasía Fina/Artes de estrella con perla.jpg"}
+    ]
+  },
+  {
+    "categoria": "Enchapado",
+    "productos": [
+      {"id": 43, "nombre": "Aretes de corazon", "precio": 130, "imagen": "imagenes/Enchapado/Aretes de corazon.jpg"},
+      {"id": 44, "nombre": "Mini Aretes blancos", "precio": 90, "imagen": "imagenes/Enchapado/Mini Aretes blancos.jpg"},
+      {"id": 45, "nombre": "Mini Aretes rojos", "precio": 90, "imagen": "imagenes/Enchapado/Mini Aretes rojos.jpg"}
+    ]
+  },
+  {
+    "categoria": "Pulseras",
+    "productos": [
+      {"id": 46, "nombre": "Pulsera de hombre", "precio": 130, "imagen": "imagenes/Pulseras/Pulsera de hombre.jpg"},
+      {"id": 47, "nombre": "Pulsera de hombre", "precio": 130, "imagen": "imagenes/Pulseras/Pulsera de hombre2.jpg"},
+      {"id": 48, "nombre": "Pulsera de trebol", "precio": 260, "imagen": "imagenes/Pulseras/Pulsera de trebol.jpg"},
+      {"id": 49, "nombre": "Pulsera plateada", "precio": 160, "imagen": "imagenes/Pulseras/Pulsera plateada.jpg"}
+    ]
+  },
+  {
+    "categoria": "Collares",
+    "productos": [
+      {"id": 50, "nombre": "Collar de lazo", "precio": 150, "imagen": "imagenes/Collares/Collar de lazo.jpg"},
+      {"id": 51, "nombre": "Collar dije estrella", "precio": 180, "imagen": "imagenes/Collares/Collar dije estrella.jpg"},
+      {"id": 52, "nombre": "Collar tulipan morado", "precio": 140, "imagen": "imagenes/Collares/Collar tulipan morado.jpg"},
+      {"id": 53, "nombre": "Collar tulipan rojo", "precio": 140, "imagen": "imagenes/Collares/Collar tulipan rojo.jpg"}
+    ]
+  },
+  {
+    "categoria": "Artesanal",
+    "productos": [
+      {"id": 54, "nombre": "Aretes de flor", "precio": 30, "imagen": "imagenes/Artesanal/Aretes de flor.jpg"},
+      {"id": 55, "nombre": "Aretes de prensar", "precio": 80, "imagen": "imagenes/Artesanal/Aretes de prensar.jpg"},
+	  {"id": 56, "nombre": "Aretes de prensar", "precio": 80, "imagen": "imagenes/Artesanal/Aretes de prensar2.jpg"},
+      {"id": 57, "nombre": "Aretes juveniles de flor", "precio": 30, "imagen": "imagenes/Artesanal/Aretes juveniles de flor.jpg"},
+      {"id": 58, "nombre": "Aretes juveniles, girasol", "precio": 30, "imagen": "imagenes/Artesanal/Aretes juveniles, girasol.jpg"}
+    ]
+  },
+  {
+    "categoria": "Joyeros",
+    "productos": [
+      {"id": 59, "nombre": "Mini Joyero 4×4 pulgadas", "precio": 120, "imagen": "imagenes/Joyeros/Mini Joyero 4×4 pulgadas.jpg"}
+    ]
+  },
+  {
+  "categoria": "Cabello",
+  "productos": [
+    {"id": 60, "nombre": "Cintillos de tela", "precio": 30, "imagen": "imagenes/Accesorios Cabello/Cintillos de tela.jpg"},
+    {"id": 61, "nombre": "Colas con dijes", "precio": 40, "imagen": "imagenes/Accesorios Cabello/Colas con dijes.jpg"},
+    {"id": 62, "nombre": "Colas de goma", "precio": 15, "imagen": "imagenes/Accesorios Cabello/Colas de goma.jpg"},
+    {"id": 63, "nombre": "Colas de goma, pequeñas", "precio": 30, "imagen": "imagenes/Accesorios Cabello/Colas de goma, pequeñas.jpg"},
+    {"id": 64, "nombre": "Colas de goma", "precio": 15, "imagen": "imagenes/Accesorios Cabello/Colas de goma2.jpg"},
+    {"id": 65, "nombre": "Colas de goma", "precio": 15, "imagen": "imagenes/Accesorios Cabello/Colas de goma3.jpg"},
+    {"id": 66, "nombre": "Colas de goma", "precio": 15, "imagen": "imagenes/Accesorios Cabello/Colas de goma4.jpg"},
+    {"id": 67, "nombre": "Colas de perl", "precio": 20, "imagen": "imagenes/Accesorios Cabello/Colas de perla.jpg"},
+    {"id": 68, "nombre": "Colas de tela", "precio": 20, "imagen": "imagenes/Accesorios Cabello/Colas de tela.jpg"},
+    {"id": 69, "nombre": "Colas de tela", "precio": 20, "imagen": "imagenes/Accesorios Cabello/Colas de tela2.jpg"},
+    {"id": 70, "nombre": "Colas de tela", "precio": 20, "imagen": "imagenes/Accesorios Cabello/Colas de tela3.jpg"},
+    {"id": 71, "nombre": "Mini pirañas", "precio": 20, "imagen": "imagenes/Accesorios Cabello/Mini pirañas.jpg"},
+    {"id": 72, "nombre": "Pirañas Hawaianas", "precio": 30, "imagen": "imagenes/Accesorios Cabello/Pirañas Hawaianas.jpg"},
+    {"id": 73, "nombre": "Pirañas Hawaianas", "precio": 30, "imagen": "imagenes/Accesorios Cabello/Pirañas Hawaianas2.jpg"},
+    {"id": 74, "nombre": "Pirañas Hawaianas", "precio": 30, "imagen": "imagenes/Accesorios Cabello/Pirañas Hawaianas3.jpg"},
+    {"id": 75, "nombre": "Pirañas rectangulares", "precio": 20, "imagen": "imagenes/Accesorios Cabello/Pirañas rectangulares.jpg"},
+    {"id": 76, "nombre": "Pirañas", "precio": 25, "imagen": "imagenes/Accesorios Cabello/Pirañas.jpg"},
+    {"id": 77, "nombre": "Pirañas", "precio": 25, "imagen": "imagenes/Accesorios Cabello/Pirañas2.jpg"},
+    {"id": 78, "nombre": "Pirañas", "precio": 20, "imagen": "imagenes/Accesorios Cabello/Pirañas22.jpg"},
+    {"id": 79, "nombre": "Pirañas", "precio": 25, "imagen": "imagenes/Accesorios Cabello/Pirañas3.jpg"},
+    {"id": 80, "nombre": "Pirañas", "precio": 25, "imagen": "imagenes/Accesorios Cabello/Pirañas4.jpg"},
+    {"id": 81, "nombre": "Pirañas", "precio": 25, "imagen": "imagenes/Accesorios Cabello/Pirañas5.jpg"},
+    {"id": 82, "nombre": "Pirañas", "precio": 25, "imagen": "imagenes/Accesorios Cabello/Pirañas6.jpg"},
+    {"id": 83, "nombre": "Scrunchies", "precio": 20, "imagen": "imagenes/Accesorios Cabello/Scrunchies.jpg"},
+    {"id": 84, "nombre": "Trabas de lazos", "precio": 40, "imagen": "imagenes/Accesorios Cabello/Trabas de lazos.jpg"}
+    ]
+  },
+  {
+    "categoria": "Perfumería",
+    "productos": [
+      {"id": 85, "nombre": "Perfumería golden 100ml", "precio": 120, "imagen": "imagenes/Perfumería/Perfumería golden 100ml.jpg"},
+      {"id": 86, "nombre": "Perfumería golden 100ml", "precio": 120, "imagen": "imagenes/Perfumería/Perfumería golden 100ml2.jpg"},
+      {"id": 87, "nombre": "Perfumería golden 100ml", "precio": 120, "imagen": "imagenes/Perfumería/Perfumería golden 100ml3.jpg"},
+      {"id": 88, "nombre": "Perfumería golden 100ml", "precio": 120, "imagen": "imagenes/Perfumería/Perfumería golden 100ml4.jpg"},
+      {"id": 89, "nombre": "Pink", "precio": 650, "imagen": "imagenes/Perfumería/Pink.jpg"},
+      {"id": 90, "nombre": "Pink", "precio": 650, "imagen": "imagenes/Perfumería/Pink2.jpg"},
+      {"id": 91, "nombre": "Victoria Secret's", "precio": 650, "imagen": "imagenes/Perfumería/Victoria Secret's.jpg"},
+      {"id": 91, "nombre": "Victoria Secret's", "precio": 650, "imagen": "imagenes/Perfumería/Victoria Secret's2.jpg"},
+      {"id": 93, "nombre": "Victoria Secret's", "precio": 650, "imagen": "imagenes/Perfumería/Victoria Secret's3.jpg"},
+      {"id": 94, "nombre": "Victoria Secret's", "precio": 650, "imagen": "imagenes/Perfumería/Victoria Secret's4.jpg"},
+      {"id": 95, "nombre": "Victoria Secret's", "precio": 650, "imagen": "imagenes/Perfumería/Victoria Secret's5.jpg"},
+      {"id": 96, "nombre": "Victoria Secret's", "precio": 650, "imagen": "imagenes/Perfumería/Victoria Secret's6.jpg"},
+      {"id": 97, "nombre": "Victoria Secret's", "precio": 650, "imagen": "imagenes/Perfumería/Victoria Secret's7.jpg"}
+    ]
+  },
+  {
+    "categoria": "Otros",
+    "productos": [
+      {"id": 81, "nombre": "Aretes", "precio": 110, "imagen": "imagenes/Otros/Aretes.jpg"},
+      {"id": 82, "nombre": "Aretes cuadrados", "precio": 120, "imagen": "imagenes/Otros/Aretes cuadrados.jpg"},
+      {"id": 83, "nombre": "Aretes cuadrados con circonas", "precio": 120, "imagen": "imagenes/Otros/Aretes cuadrados con circonas.jpg"},
+      {"id": 84, "nombre": "Aretes de corazon", "precio": 110, "imagen": "imagenes/Otros/Aretes de corazon.jpg"},
+      {"id": 85, "nombre": "Aretes de hojas", "precio": 110, "imagen": "imagenes/Otros/Aretes de hojas.jpg"},
+      {"id": 86, "nombre": "Aretes de perla", "precio": 110, "imagen": "imagenes/Otros/Aretes de perla.jpg"},
+      {"id": 87, "nombre": "Aretes de perla con flor", "precio": 110, "imagen": "imagenes/Otros/Aretes de perla con flor.jpg"},
+      {"id": 88, "nombre": "Aretes de perla con mariposa", "precio": 110, "imagen": "imagenes/Otros/Aretes de perla con mariposa.jpg"},
+      {"id": 89, "nombre": "Aretes de perlas", "precio": 110, "imagen": "imagenes/Otros/Aretes de perlas.jpg"},
+      {"id": 90, "nombre": "Aretes de perlas con circonas", "precio": 120, "imagen": "imagenes/Otros/Aretes de perlas con circonas.jpg"},
+      {"id": 91, "nombre": "Aretes de saturno", "precio": 110, "imagen": "imagenes/Otros/Aretes de saturno.jpg"},
+      {"id": 92, "nombre": "Aretes dorados", "precio": 120, "imagen": "imagenes/Otros/Aretes dorados.jpg"},
+      {"id": 93, "nombre": "Collar de corazon", "precio": 130, "imagen": "imagenes/Otros/Collar de corazon.jpg"},
+      {"id": 94, "nombre": "Maxi Aretes circulares", "precio": 150, "imagen": "imagenes/Otros/Maxi Aretes circulares.jpg"},
+      {"id": 95, "nombre": "Maxi Aretes circulares", "precio": 150, "imagen": "imagenes/Otros/Maxi Aretes circulares2.jpg"},
+      {"id": 96, "nombre": "Maxi Aretes circulares", "precio": 110, "imagen": "imagenes/Otros/Maxi Aretes circulares3.jpg"}
+    ]
+  }
+]
